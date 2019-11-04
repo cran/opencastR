@@ -1,7 +1,7 @@
-adf2d5167c602f46554c69e5e19a0958 *DESCRIPTION
+12c636a2c9f56f136436f643706eb352 *DESCRIPTION
 ee777199b15657e176c28303fbab21f2 *NAMESPACE
-e19a51ab262b9dd477f7e1bc76862727 *NEWS.md
-ea08fcb96e5c80fd20befd04d280d1d0 *R/oc_agent.R
+d7323416066e17e4fa9b0f024ec7e312 *NEWS.md
+411fc240bad99bd0c994ca4ce2ded039 *R/oc_agent.R
 97eaf7ebbc3d198fd3d84942d6f5d256 *R/oc_api.R
 76c88081ffffb8ac08cc129a07d7b93f *R/oc_event.R
 f10efffccb2dcdcde84bbbe7e6b63eed *R/oc_event_acl.R
@@ -33,12 +33,12 @@ a0774c39b774e2517461102a259cf407 *R/oc_series_properties.R
 54c8aef85ffd7f067ae58f36f6059074 *R/oc_version_default.R
 9ee12c3fd582803c1d2305fcd4edaabb *R/oc_workflow_definition.R
 3e361df27c67ed8bfb73f3de6b65299d *R/oc_workflow_instance.R
-b11c38d8b67a7d4c955b316940f3ecdb *README.md
+dd186efb3df236cb10856c98f9b17df0 *README.md
 8d8654b3bc14803570921b832f1ed783 *build/vignette.rds
 e3c99519ddc79a9de57d49ca2818ddf7 *inst/doc/getting_started.R
 93e76b7bdfcf35a56b004683d2347c3d *inst/doc/getting_started.Rmd
-1e5be3c8e04039c3c3f2ab563d560a56 *inst/doc/getting_started.html
-3f6863ca4c33f8ec2fb03c8e47a8864b *man/oc_agent.Rd
+1266231f5735d15e79659a0adb3f1e87 *inst/doc/getting_started.html
+62fde19c8222abf613eefed153fe018e *man/oc_agent.Rd
 915c8332fcd165818738219ec64c61df *man/oc_api.Rd
 6740966e6e15159781307d36d3b0ac2e *man/oc_event.Rd
 a2d76acb2db327f0a2e9456af68a25fa *man/oc_event_acl.Rd
@@ -70,7 +70,7 @@ c4d45e6a5abfb4cf4116dc98cb57f325 *man/oc_username.Rd
 24cdea87360d1f8e307056c8aefd6074 *man/oc_version_default.Rd
 f62aa391f69f14cdc7a271c9ddc31b68 *man/oc_workflow_definition.Rd
 56aca917d337eeecb94eedbe1622a930 *man/oc_workflow_instance.Rd
-68434a2321dda1cc04e18916e1004d53 *man/print.oc_agent.Rd
+a72f1b79301675638a73c966c513bca2 *man/print.oc_agent.Rd
 af7180ad1f190449df4e5e6f8abb8434 *man/print.oc_api.Rd
 649def00b92173e0f9f637bae61a9d11 *man/print.oc_event.Rd
 a28812c3c9f7cdb6b34f8f3aa05fd807 *man/print.oc_event_acl.Rd

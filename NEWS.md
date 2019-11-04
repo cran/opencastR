@@ -1,3 +1,7 @@
+# opencastR 0.1.2
+
+* Removed an example from always been run as it can't always be used with the testserver
+
 # opencastR 0.1.1
 
 * Rewrote the examples
